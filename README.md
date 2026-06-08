@@ -1,1 +1,1 @@
-Greenfootovy projekt nahraty do githubu.
+Projekt v greenfootu kde se jablko hybe vpřed.
